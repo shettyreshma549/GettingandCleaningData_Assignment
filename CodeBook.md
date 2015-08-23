@@ -29,9 +29,9 @@ fBodyGyroJerkMag
 
 The set of variables that were estimated from these signals are: 
 
-mean() : mean values of multiple measurements of the original variables.
+featurename-mean-XYZ : mean values of multiple measurements of the original variables.
 
-std(): Standard deviation of multiple measurements of the original variables. 
+featurename-std-XYZ: Standard deviation of multiple measurements of the original variables. 
 
 activity: Descriptive name of each subject's activity Type: Factor Values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
